@@ -54,7 +54,7 @@ f4maxloader.BorderSizePixel = 0
 f4maxloader.Position = UDim2.new(0.123442277, 0, 0.157894731, 0)
 f4maxloader.Size = UDim2.new(0, 154, 0, 39)
 f4maxloader.Font = Enum.Font.JosefinSans
-f4maxloader.Text = "\"f4max hub\""
+f4maxloader.Text = "\"F4HUB\""
 f4maxloader.TextColor3 = Color3.fromRGB(255, 255, 255)
 f4maxloader.TextSize = 20.000
 f4maxloader.TextWrapped = true
@@ -250,7 +250,7 @@ f4maxname.BorderSizePixel = 0
 f4maxname.Position = UDim2.new(0, 0, -0.000333150238, 0)
 f4maxname.Size = UDim2.new(0, 329, 0, 25)
 f4maxname.Font = Enum.Font.JosefinSans
-f4maxname.Text = "\"f4max hub\""
+f4maxname.Text = "\"F4HUB\""
 f4maxname.TextColor3 = Color3.fromRGB(255, 255, 255)
 f4maxname.TextSize = 14.000
 f4maxname.TextWrapped = true
@@ -841,7 +841,7 @@ EspEnable.MouseButton1Down:connect(function()
 	end
 end)
 
-_G.sizeof = 105
+_G.sizeof = 350
 _G.AimOn = false
 _G.TeamCheckOn = true
 _G.Aimpart = "Head"
